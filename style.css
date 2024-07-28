@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;    
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+#song_name{
+    font-size: 18px;
+    border-radius: 5px;
+    outline-color: burlywood;
+    outline-width: 2px;
+    outline-style: solid;
+}
+
+#canvas{
+    margin: 10px;
+    outline-color: black;
+    outline-width: 2px;
+    outline-style: dashed;
+}
